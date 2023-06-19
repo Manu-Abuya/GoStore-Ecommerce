@@ -49,7 +49,7 @@ Welcome to GoStore-Ecommerce! This is an e-commerce project built with Go that a
       Open your web browser and navigate to http://localhost:8080.
       
       
-##Usage
+## Usage
 
    - Register a new user account or log in with existing credentials.
    - Create a new store or browse existing stores.
@@ -59,7 +59,7 @@ Welcome to GoStore-Ecommerce! This is an e-commerce project built with Go that a
    - Leave reviews and ratings for products you have purchased.
    - Access the admin dashboard (if authorized) to manage site settings and user accounts.
 
-##Contributing
+## Contributing
     Contributions are welcome! If you find any issues or have suggestions for improvements, please submit an issue or create a pull request. Follow       these steps to contribute:
 
    - Fork the repository.
