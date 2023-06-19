@@ -60,7 +60,7 @@ Welcome to GoStore-Ecommerce! This is an e-commerce project built with Go that a
    - Access the admin dashboard (if authorized) to manage site settings and user accounts.
 
 ## Contributing
-    Contributions are welcome! If you find any issues or have suggestions for improvements, please submit an issue or create a pull request. Follow       these steps to contribute:
+Contributions are welcome! If you find any issues or have suggestions for improvements, please submit an issue or create a pull request. Follow these steps to contribute:
 
    - Fork the repository.
    - Create a new branch for your feature or bug fix.
