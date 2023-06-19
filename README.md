@@ -46,4 +46,4 @@ Welcome to GoStore-Ecommerce! This is an e-commerce project built with Go that a
     
 5. Access the application:
 
-  Open your web browser and navigate to http://localhost:8080.
+      Open your web browser and navigate to http://localhost:8080.
