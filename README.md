@@ -47,3 +47,25 @@ Welcome to GoStore-Ecommerce! This is an e-commerce project built with Go that a
 5. Access the application:
 
       Open your web browser and navigate to http://localhost:8080.
+      
+      
+##Usage
+
+   - Register a new user account or log in with existing credentials.
+   - Create a new store or browse existing stores.
+   - Add products to your store or explore products from other stores.
+   - Manage your shopping cart and proceed to checkout.
+   - Track your orders and update their status.
+   - Leave reviews and ratings for products you have purchased.
+   - Access the admin dashboard (if authorized) to manage site settings and user accounts.
+
+##Contributing
+    Contributions are welcome! If you find any issues or have suggestions for improvements, please submit an issue or create a pull request. Follow       these steps to contribute:
+
+   - Fork the repository.
+   - Create a new branch for your feature or bug fix.
+   - Make your changes and test thoroughly.
+   - Commit your changes with descriptive commit messages.
+   - Push your branch to your forked repository.
+   - Open a pull request to the main repository's main branch.
+
