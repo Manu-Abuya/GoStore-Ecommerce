@@ -34,7 +34,7 @@ Welcome to GoStore-Ecommerce! This is an e-commerce project built with Go that a
     
 3. Set up the database:
 
-  - Create a new PostgreSQL database.
+  - Create a new MongoDB database.
   - Update the database configuration in config/config.go with your database credentials.
   
 4. Build and run the application:
